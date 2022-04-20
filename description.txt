@@ -1,0 +1,4 @@
+Turn teammates into minions!
+they will be unable to take damage, but they will be able to attack and move.
+enemies will not target these minions.
+minions can teleport to the master at any time, and the master will not be able to teleport to them.

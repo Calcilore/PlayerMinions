@@ -1,0 +1,3 @@
+displayName = Player Minions
+author = Calcilore
+version = 0.1
